@@ -11,3 +11,9 @@ puts "Hello, World!".inspect
 p "Hello, World!"
 
 p 3
+
+puts nil
+
+puts # Blank line; valid!
+
+p nil
