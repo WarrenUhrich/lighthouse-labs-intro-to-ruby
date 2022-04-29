@@ -2,11 +2,11 @@
 
 * [X] Ruby Introduction
 * [X] Variables
-* [ ] Conditionals
-* [ ] Loops
-* [ ] Methods
-* [ ] Hashes
-* [ ] Blocks and Lambdas
+* [X] Conditionals
+* [X] Loops
+* [X] Methods
+* [X] Hashes
+* [X] Blocks and Lambdas
 * [ ] Classes
 
 ## What is Ruby?
