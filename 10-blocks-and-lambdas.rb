@@ -7,6 +7,7 @@
 # }
 
 insects = ["Mosquito", "Beetle", "Fly", "Termite"]
+animals = ["Dog", "Tardigrade", "Elephant", "Orca", "Lobster"]
 
 output_string_lambda = lambda { |string| puts string } # Ruby lambda syntax.
 output_string_lambda_2 = ->(string) { puts string } # Ruby lambda literal syntax.
@@ -18,10 +19,13 @@ puts
 
 puts "Lambda Literal Example:"
 insects.each &output_string_lambda_2
+animals.each &output_string_lambda_2
 
 # Simple lamdba, no paramters.
 say_hi = lambda do
     puts "Hi!"
+    puts "This is the say hi lambda."
+    puts 3 + 3 * 10
 end
 
 # Don't forget your ampersands!
@@ -31,3 +35,16 @@ def run_lambda &block
 end
 
 run_lambda &say_hi # Run our method; pass argument of lambda.
+
+
+=begin
+function sayHi() {
+    console.log('Hi!');
+}
+
+function runFunction(callback) {
+    callback();
+}
+
+runFunction(sayHi);
+=end
