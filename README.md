@@ -1,7 +1,7 @@
 # Lighthouse Labs | Intro to Ruby
 
-* [ ] Ruby Introduction
-* [ ] Variables
+* [X] Ruby Introduction
+* [X] Variables
 * [ ] Conditionals
 * [ ] Loops
 * [ ] Methods
