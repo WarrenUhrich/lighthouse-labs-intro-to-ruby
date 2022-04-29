@@ -7,7 +7,7 @@
 * [X] Methods
 * [X] Hashes
 * [X] Blocks and Lambdas
-* [ ] Classes
+* [X] Classes
 
 ## What is Ruby?
 
