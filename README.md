@@ -24,6 +24,7 @@
 * Made extremely popular in about 2005 due to the introduction of the VERY developer friendly MVC framework: Ruby on Rails
 * Seen a LOT in CLI for Mac / Linux installations and scripts
 * After '05, used a LOT for full-stack web!
+* Synchronous
 
 > I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language. — Yukihiro Matsumoto
 
