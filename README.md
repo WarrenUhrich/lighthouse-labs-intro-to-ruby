@@ -1,2 +1,10 @@
-# lighthouse-labs-intro-to-ruby
-Lighthouse Labs "Intro to Ruby" lecture. 
+# Lighthouse Labs | Introduction to Ruby
+
+* [ ] Ruby Introduction
+* [ ] Variables
+* [ ] Conditionals
+* [ ] Loops
+* [ ] Methods
+* [ ] Hashes
+* [ ] Blocks
+* [ ] Classes
