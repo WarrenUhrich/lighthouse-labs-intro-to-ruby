@@ -40,3 +40,14 @@
 * Lots of libraries (Gems)
 * Built to be easy to use / read
 * Mature and very passionate community
+
+## Command-Line!
+
+* `ruby --version` prints active Ruby version
+* `ruby -e 'RUBY CODE HERE'` execute the string as Ruby code
+* `irb` runs the Interactive Ruby Shell, use `quit` to leave
+* `ruby FILENAME.rb` execute a file by path/name
+* `rvm docs generate` generates command-line documentation
+* `ri CLASS_OR_METHOD_NAME` outputs built-in documentation (generate first!)
+* `gem install GEM_NAME` installs a Ruby package (gem) globally
+* `gem list` list all gems installed to this instance of Ruby
