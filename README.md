@@ -1,6 +1,6 @@
 # Lighthouse Labs | Introduction to Ruby
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-intro-to-ruby/tree/2023.08.15-web-flex-day-20march2023) | [Vimeo Video Recording (Coming Soon!)](#coming-soon!)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-intro-to-ruby/tree/2023.08.15-web-flex-day-20march2023) | [Vimeo Video Recording](https://vimeo.com/854844977/43e83586a3?share=copy)
 
 * [X] Ruby Introduction
 * [X] Variables
